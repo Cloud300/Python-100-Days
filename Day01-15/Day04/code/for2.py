@@ -9,6 +9,7 @@ Date: 2018-03-01
 """
 
 sum = 0
-for x in range(2, 101, 2):
-	sum += x
+for i in range(2, 101, 2):
+	if i % 2 == 0
+	sum += i
 print(sum)
